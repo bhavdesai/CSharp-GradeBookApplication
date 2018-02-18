@@ -3,9 +3,9 @@
     public enum GradeBookType
     {
         Standard,
-        Ranked, 
-        ENSU,
+        Ranked,
+        ESNU,
         OneToFour,
         SixPoint
-    };
+    }
 }
